@@ -14,10 +14,8 @@ You may copy, modify, translate, or reuse this work for any purpose, including A
 
 
 - **52 — Apostates**  
-  [book 3 - 52 - Apostates.txt](book 3 - 52 - Apostates.txt)
-  [book 3 - 52 - Apostates.txt](book 3 - 52 - Apostates.pdf)
-  [book 3 - 52 - Apostates.txt](book 3 - 52 - Apostates.docx)
-
+  [TXT](book%203%20-%2052%20-%20Apostates.txt) • [PDF](book%203%20-%2052%20-%20Apostates.pdf) • [DOCX](book%203%20-%2052%20-%20Apostates.docx)
+  
 - **53 — The Return Home**  
   [book 3 - 53 - The Return Home.txt](book 3 - 53 - The Return Home.txt)
   [book 3 - 53 - The Return Home.txt](book 3 - 53 - The Return Home.pdf)
