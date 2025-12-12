@@ -16,11 +16,11 @@ You may copy, modify, translate, or reuse this work for any purpose, including A
 - **52 — Apostates**  
   [TXT](book%203%20-%2052%20-%20Apostates.txt) • [PDF](book%203%20-%2052%20-%20Apostates.pdf) • [DOCX](book%203%20-%2052%20-%20Apostates.docx)
   
-- **53 — The Return Home**
-  [TXT](book%203%20-%2053%20-%20The%20Return%20Home.txt) • [PDF](book%203%20-%2053%20-%20The%20Return%20Home.pdf) •[DOCX](book%203%20-%2053%20-%20The%20Return%20Home.docx) 
+- **53 — The Return Home**  
+  [TXT](book%203%20-%2053%20-%20The%20Return%20Home.txt) • [PDF](book%203%20-%2053%20-%20The%20Return%20Home.pdf) • [DOCX](book%203%20-%2053%20-%20The%20Return%20Home.docx)  
 
 
-- **54 — The Three Evil Things**
+- **54 — The Three Evil Things**  
   [TXT](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.txt) • [PDF](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.pdf) • [DOCX](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.docx) • 
 
 
