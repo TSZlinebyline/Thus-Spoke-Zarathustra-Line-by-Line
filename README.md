@@ -7,7 +7,7 @@ You may copy, modify, translate, or reuse this work for any purpose, including A
 ### Book 3 Commentary
 
 - **50 — On the Olive-Mount**  
-  [book 3 - 50 - On the Olive-Mount.txt](book 3 - 50 - On The Olive-Mount.docx)
+  [DOCX](book%203%20-%2050%20-%20On%20The%20Olive-Mount.docx)
 
 - **51 — On Passing By**  
   [TXT](book%203%20-%2051%20-%20On%20Passing%20By.txt) • [PDF](book%203%20-%2051%20-%20On%20Passing%20By.pdf) • [DOCX](book%203%20-%2051%20-%20On%20Passing%20By.docx)
@@ -16,14 +16,12 @@ You may copy, modify, translate, or reuse this work for any purpose, including A
 - **52 — Apostates**  
   [TXT](book%203%20-%2052%20-%20Apostates.txt) • [PDF](book%203%20-%2052%20-%20Apostates.pdf) • [DOCX](book%203%20-%2052%20-%20Apostates.docx)
   
-- **53 — The Return Home**  
-  [book 3 - 53 - The Return Home.txt](book 3 - 53 - The Return Home.txt)
-  [book 3 - 53 - The Return Home.txt](book 3 - 53 - The Return Home.pdf)
-  [book 3 - 53 - The Return Home.txt](book 3 - 53 - The Return Home.docx)
+- **53 — The Return Home**
+  [TXT](book%203%20-%2053%20-%20The%20Return%20Home.txt) • [PDF](book%203%20-%2053%20-%20The%20Return%20Home.pdf) •[DOCX](book%203%20-%2053%20-%20The%20Return%20Home.docx) 
 
-- **54 — The Three Evil Things**  
-  [book 3 - 54 - The Three Evil Things.txt](book 3 - 54 - The Three Evil Things.txt)
-  [book 3 - 54 - The Three Evil Things.txt](book 3 - 54 - The Three Evil Things.pdf)
-  [book 3 - 54 - The Three Evil Things.txt](book 3 - 54 - The Three Evil Things.docx)
+
+- **54 — The Three Evil Things**
+  [TXT](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.txt) • [PDF](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.pdf) • [DOCX](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.docx) • 
+
 
 
