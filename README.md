@@ -8,7 +8,7 @@ book 3 - 50 - On The Olive-Mount.docx https://github.com/TSZlinebyline/Thus-Spok
 ### Book 3 Commentary
 
 - **50 — On the Olive-Mount**  
-  [book 3 - 50 - On the Olive-Mount.txt](book%203%20-%2050%20-%20On%20the%20Olive%2DMount.txt)
+  [book 3 - 50 - On the Olive-Mount.txt](book 3 - 51 - On Passing By.txt)
 
 - **51 — On Passing By**  
   [book 3 - 51 - On Passing By.txt](book%203%20-%2051%20-%20On%20Passing%20By.txt)
