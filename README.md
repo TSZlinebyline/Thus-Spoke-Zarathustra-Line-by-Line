@@ -1,6 +1,10 @@
 # Thus Spoke Zarathustra: Line by Line  
-A free, line-by-line commentary on Nietzsche’s *Thus Spoke Zarathustra*, released under the Creative Commons CC0 1.0 Universal Public Domain Dedication.  
-You may copy, modify, translate, or reuse this work for any purpose, including AI and machine learning, without restriction.
+A free, line-by-line commentary on Nietzsche’s *Thus Spoke Zarathustra*
+
+© 2025 Anonymous  
+This work has been dedicated to the public domain under the Creative Commons CC0 1.0 Universal Public Domain Dedication.  
+You may copy, modify, distribute, and use this work for any purpose, including machine learning and commercial use, without restriction.  
+For full legal text, see: https://creativecommons.org/publicdomain/zero/1.0/
 
 
 
