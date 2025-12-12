@@ -10,9 +10,8 @@ You may copy, modify, translate, or reuse this work for any purpose, including A
   [book 3 - 50 - On the Olive-Mount.txt](book 3 - 50 - On The Olive-Mount.docx)
 
 - **51 — On Passing By**  
-  [book 3 - 51 - On Passing By.txt](book 3 - 51 - On Passing By.txt)
-  [book 3 - 51 - On Passing By.txt](book 3 - 51 - On Passing By.pdf)
-  [book 3 - 51 - On Passing By.txt](book 3 - 51 - On Passing By.docx)
+  [TXT](book%203%20-%2051%20-%20On%20Passing%20By.txt) • [PDF](book%203%20-%2051%20-%20On%20Passing%20By.pdf) • [DOCX](book%203%20-%2051%20-%20On%20Passing%20By.docx)
+
 
 - **52 — Apostates**  
   [book 3 - 52 - Apostates.txt](book 3 - 52 - Apostates.txt)
