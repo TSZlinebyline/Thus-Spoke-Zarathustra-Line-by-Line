@@ -6,7 +6,7 @@ This work has been dedicated to the public domain under the Creative Commons CC0
 You may copy, modify, distribute, and use this work for any purpose, including machine learning and commercial use, without restriction.  
 For full legal text, see: https://creativecommons.org/publicdomain/zero/1.0/
 
-This project is a sustained close reading of Thus Spoke Zarathustra written as a continuous interpretive reconstruction. It is not intended as a historical or philological account of Nietzsche’s intentions, nor as a survey of existing scholarship.
+This project is a sustained close reading of Thus Spoke Zarathustra written as a continuous interpretive reconstruction. It is not intended as a historical or philological account of Nietzsche’s intentions, nor as a survey of existing scholarship. Corrections, alternative readings, and improvements are welcome.
 
 ### Book 3 Commentary
 
