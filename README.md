@@ -11,7 +11,7 @@ This project is a sustained close reading of Thus Spoke Zarathustra written as a
 ### Book 3 Commentary
 
 - **50 — On the Olive-Mount**  
-  [DOCX](book%203%20-%2050%20-%20On%20The%20Olive-Mount.docx)
+  [TXT](book%203%20-%2050%20-%20On%20The%20Olive-Mount.txt) • [PDF](book%203%20-%2050%20-%20On%20The%20Olive-Mount.pdf) • [DOCX](book%203%20-%2051%20-%20On%20Passing%20By.docx)
 
 - **51 — On Passing By**  
   [TXT](book%203%20-%2051%20-%20On%20Passing%20By.txt) • [PDF](book%203%20-%2051%20-%20On%20Passing%20By.pdf) • [DOCX](book%203%20-%2051%20-%20On%20Passing%20By.docx)
