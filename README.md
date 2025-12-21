@@ -12,7 +12,7 @@ This project is a sustained close reading of Thus Spoke Zarathustra written as a
 
 
 - **49 — The Bedwarfing Virtue**  
-  [DOCX](book%203%20-%2049%20-%20The%20bedwarfing%20virtue.docx)
+  [DOCX](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2049%20-%20The%20Bedwarfing%20Virtue.docx)
 
 - **50 — On the Olive-Mount**  
   [TXT](book%203%20-%2050%20-%20On%20The%20Olive-Mount.txt) • [PDF](book%203%20-%2050%20-%20On%20The%20Olive-Mount.pdf) • [DOCX](book%203%20-%2050%20-%20On%20The%20Olive-Mount.docx)
