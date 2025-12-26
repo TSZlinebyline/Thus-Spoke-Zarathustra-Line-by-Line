@@ -28,6 +28,7 @@ This project is a sustained close reading of Thus Spoke Zarathustra written as a
 
 - **54 — The Three Evil Things**  
  For Audio: [TXT](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.txt) • [PDF](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.pdf) • [DOCX](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.docx)
- For Reading:[TXT](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2054%20-%20The%20Three%20Evil%20Things%20(reader%20only%20edition).docx)
+
+ For Reading:[TXT](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2054%20-%20The%20Three%20Evil%20Things%20(reader%20only%20edition).txt) • [PDF](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2054%20-%20The%20Three%20Evil%20Things%20(reader%20only%20edition).pdf) • [DOCX](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2054%20-%20The%20Three%20Evil%20Things%20(reader%20only%20edition).docx)
 
 
