@@ -21,7 +21,8 @@ This project is a sustained close reading of Thus Spoke Zarathustra written as a
   [TXT](book%203%20-%2051%20-%20On%20Passing%20By.txt) • [PDF](book%203%20-%2051%20-%20On%20Passing%20By.pdf) • [DOCX](book%203%20-%2051%20-%20On%20Passing%20By.docx)
 
 - **52 — Apostates**  
-  [TXT](book%203%20-%2052%20-%20Apostates.txt) • [PDF](book%203%20-%2052%20-%20Apostates.pdf) • [DOCX](book%203%20-%2052%20-%20Apostates.docx)
+  For Audio: [TXT](book%203%20-%2052%20-%20Apostates.txt) • [PDF](book%203%20-%2052%20-%20Apostates.pdf) • [DOCX](book%203%20-%2052%20-%20Apostates.docx)
+  For Reading: [TXT](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2052%20-%20Apostates.txt) • [PDF](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2052%20-%20Apostates.pdf) • [DOCX](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2052%20-%20Apostates.docx)
 
 - **53 — The Return Home**  
   For Audio: [TXT](book%203%20-%2053%20-%20The%20Return%20Home.txt) • [PDF](book%203%20-%2053%20-%20The%20Return%20Home.pdf) • [DOCX](book%203%20-%2053%20-%20The%20Return%20Home.docx)
