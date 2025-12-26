@@ -24,7 +24,9 @@ This project is a sustained close reading of Thus Spoke Zarathustra written as a
   [TXT](book%203%20-%2052%20-%20Apostates.txt) • [PDF](book%203%20-%2052%20-%20Apostates.pdf) • [DOCX](book%203%20-%2052%20-%20Apostates.docx)
 
 - **53 — The Return Home**  
-  [TXT](book%203%20-%2053%20-%20The%20Return%20Home.txt) • [PDF](book%203%20-%2053%20-%20The%20Return%20Home.pdf) • [DOCX](book%203%20-%2053%20-%20The%20Return%20Home.docx)
+  For Audio: [TXT](book%203%20-%2053%20-%20The%20Return%20Home.txt) • [PDF](book%203%20-%2053%20-%20The%20Return%20Home.pdf) • [DOCX](book%203%20-%2053%20-%20The%20Return%20Home.docx)
+  For Reading: [TXT](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2053%20-%20The%20Return%20Home%20(reader%20only%20edition).txt) • [PDF](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2053%20-%20The%20Return%20Home%20(reader%20only%20edition).pd ) • [DOCX](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2053%20-%20The%20Return%20Home%20(reader%20only%20edition).docx)
+
 
 - **54 — The Three Evil Things**  
  For Audio: [TXT](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.txt) • [PDF](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.pdf) • [DOCX](book%203%20-%2054%20-%20The%20Three%20Evil%20Things.docx)
