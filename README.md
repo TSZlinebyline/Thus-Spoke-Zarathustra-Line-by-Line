@@ -17,6 +17,7 @@ This project is a sustained close reading of Thus Spoke Zarathustra written as a
 - **50 - 54**
   On the Olive-Mount, On Passing By, Apostates, The Return Home, The Three Evil Things
 - [TXT] [book 3 50-54.txt](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%2050-54.txt)
+- [PDF] [book 3 50-54.pdf](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%2050-54.pdf)
 
   
 - **51 — On Passing By**  
