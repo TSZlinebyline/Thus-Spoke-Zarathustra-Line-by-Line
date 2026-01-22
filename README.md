@@ -19,3 +19,4 @@ This project is a sustained close reading of Thus Spoke Zarathustra written as a
 - [TXT] [book 3 50-54.txt](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%2050-54.txt)
 - [PDF] [book 3 50-54.pdf](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%2050-54.pdf)
 - [DOCX] [book 3 50-54.docx](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%2050-54.docx)
+- [MD] [book 3 50-54.md](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%2050-54.md)
