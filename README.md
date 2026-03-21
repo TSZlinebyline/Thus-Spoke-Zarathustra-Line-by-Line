@@ -15,8 +15,11 @@ and pull requests encouraged).
 ### Book 3 Commentary
 
 
-- **49 — The Bedwarfing Virtue**  
-  [DOCX](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2049%20-%20The%20Bedwarfing%20Virtue.docx)
+- **49 — The Bedwarfing Virtue**
+- [TXT] [book 3 49.txt](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2049%20-%20The%20Bedwarfing%20Virtue.txt)
+- [PDF] [book 3 49.pdf](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2049%20-%20The%20Bedwarfing%20Virtue.pdf)
+- [DOCX] [book 3 49.docx](https://github.com/TSZlinebyline/Thus-Spoke-Zarathustra-Line-by-Line/blob/main/book%203%20-%2049%20-%20The%20Bedwarfing%20Virtue.docx)
+  
 
 - **50 - 54**
   On the Olive-Mount, On Passing By, Apostates, The Return Home, The Three Evil Things
